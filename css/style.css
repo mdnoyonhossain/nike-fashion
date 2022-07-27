@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #faf9f9;
+}
+.menu img{
+    width: 35%;
+}
+.nav-menu li{
+    margin-left: 15px;
+}
+.top-banner{
+    background-color: #FFF9F4;
+}
+.banner{
+    background-color: #FFF9F4;
+    padding: 50px;
+    margin-top: -65px;
+    padding-top: 200px;
+}
+.casual-shoes img{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 9px 12px 20px lightgrey;
+    border-radius: 15px;
+}
+.supporting{
+    margin-top: 85px;
+}
+.nike-btn{
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    color: white;
+}
+.nike-btn:hover{
+    color: white;
+}
+.font li{
+    font-size: 30px;
+    margin-right: 25px;
+}
